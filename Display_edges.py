@@ -14,6 +14,7 @@ class Edges:
     def edge(self):
         return self.findedge()
 
+    
 graph = {
     "a": ['b', 'c'],
      "b":  ['a'],
